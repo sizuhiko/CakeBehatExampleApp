@@ -1,0 +1,10 @@
+h1. Sample Application for CakeBehat
+
+Copyright(c) 2011 Sizuhiko. Licensed under the MIT license.
+
+h2. Overview
+
+This is a sample CakePHP2 application testing the basic usage of CakeBehat.
+
+CakeBehat is 
+https://github.com/sizuhiko/CakeBehat
